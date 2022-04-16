@@ -67,7 +67,6 @@ letter-spacing: 1px;
 ### Useful resources
 
 - [How to host your own fonts made simple](https://www.youtube.com/watch?v=KzqQXDbDvus) - A Youtube video that teaches you how to use fonts on the website.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 
 ## Author
